@@ -1,2 +1,4 @@
 # concurrency-go
-ejemplos de concurrencia en Golang
+Ejemplos de concurrencia en Golang
+
+Ejemplo donde se guardaran todos los numeros  enteros en un archivo lo mas rapido posible
